@@ -1,0 +1,23 @@
+.logo {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.19;
+  /* identical to box height */
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+.logo-dark {
+  color: #000000;
+}
+
+.link {
+  list-style: none;
+  text-decoration: none;
+}
+.header-list {
+}
+.header-item {
+}
+.header-link {
+}
